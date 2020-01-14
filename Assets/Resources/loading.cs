@@ -15,7 +15,7 @@ public class loading : MonoBehaviour {
 			currentAmount += speed * Time.deltaTime;
 			Debug.Log ((int)currentAmount);
 		} else {
-			Application.LoadLevel ("main_menu");
+			Application.LoadLevel ("mainmenu");
 		}
 
 		LoadingBar.GetComponent<Image> ().fillAmount = currentAmount / 100;
