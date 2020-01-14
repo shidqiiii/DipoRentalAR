@@ -2,6 +2,8 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - loading
+    - menu
+    - sound
     - splash
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -37,17 +39,17 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9744}
+      Script: {instanceID: 9746}
     - Class: 114
-      Script: {instanceID: 9952}
+      Script: {instanceID: 9956}
     - Class: 114
-      Script: {instanceID: 10306}
+      Script: {instanceID: 10310}
     - Class: 114
-      Script: {instanceID: 10364}
+      Script: {instanceID: 10368}
     - Class: 114
-      Script: {instanceID: 11440}
+      Script: {instanceID: 11446}
     - Class: 114
-      Script: {instanceID: 11892}
+      Script: {instanceID: 11898}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -80,19 +82,70 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9744}
+      Script: {instanceID: 9746}
     - Class: 114
-      Script: {instanceID: 9912}
+      Script: {instanceID: 9914}
     - Class: 114
-      Script: {instanceID: 9952}
+      Script: {instanceID: 9956}
     - Class: 114
-      Script: {instanceID: 10364}
+      Script: {instanceID: 10368}
     - Class: 114
-      Script: {instanceID: 10940}
+      Script: {instanceID: 10944}
     - Class: 114
-      Script: {instanceID: 11440}
+      Script: {instanceID: 10990}
     - Class: 114
-      Script: {instanceID: 11892}
+      Script: {instanceID: 11446}
+    - Class: 114
+      Script: {instanceID: 11898}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/menu_sound.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 9746}
+    - Class: 114
+      Script: {instanceID: 9914}
+    - Class: 114
+      Script: {instanceID: 9948}
+    - Class: 114
+      Script: {instanceID: 9956}
+    - Class: 114
+      Script: {instanceID: 10368}
+    - Class: 114
+      Script: {instanceID: 10944}
+    - Class: 114
+      Script: {instanceID: 11446}
+    - Class: 114
+      Script: {instanceID: 11898}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -127,19 +180,19 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9744}
+      Script: {instanceID: 9746}
     - Class: 114
-      Script: {instanceID: 9952}
+      Script: {instanceID: 9956}
     - Class: 114
-      Script: {instanceID: 10364}
+      Script: {instanceID: 10368}
     - Class: 114
-      Script: {instanceID: 10380}
+      Script: {instanceID: 10384}
     - Class: 114
-      Script: {instanceID: 10512}
+      Script: {instanceID: 10516}
     - Class: 114
-      Script: {instanceID: 11440}
+      Script: {instanceID: 11446}
     - Class: 114
-      Script: {instanceID: 11892}
+      Script: {instanceID: 11898}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -263,6 +316,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
     className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: sound
   - hash:
       serializedVersion: 2
       Hash: 8e0313c6f5e2ce35991fec2d64f8eaab
@@ -1019,6 +1078,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: menu
   - hash:
       serializedVersion: 2
       Hash: 7f28288592a4a21fe80e28c3d4db9434
@@ -1834,4 +1899,5 @@ ScriptsOnlyBuild:
   - Assets/splash.unity
   - Assets/loading.unity
   - Assets/mainmenu.unity
+  - Assets/menu_sound.unity
   playerPath: C:/Users/User/Downloads/DipoRental.apk

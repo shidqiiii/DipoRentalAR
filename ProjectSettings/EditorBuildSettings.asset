@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/mainmenu.unity
     guid: ac95c1377eb46bb4289b2f517a723874
+  - enabled: 1
+    path: Assets/menu_sound.unity
+    guid: d6be574e0b198594f9c254c0b68afd18
   m_configObjects: {}

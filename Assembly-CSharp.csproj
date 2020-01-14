@@ -138,6 +138,8 @@
      <Compile Include="Assets\Lean\Transition\Scripts\LeanTime.cs" />
      <Compile Include="Assets\Lean\Transition\Scripts\LeanTransition.cs" />
      <Compile Include="Assets\Resources\loading.cs" />
+     <Compile Include="Assets\Resources\menu.cs" />
+     <Compile Include="Assets\Resources\sound.cs" />
      <Compile Include="Assets\Resources\splash.cs" />
      <None Include="Assets\Lean\Common\Examples\Shaders\Alpha.shader" />
      <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml" />
@@ -148,6 +150,9 @@
      <None Include="Assets\Lean\Common\Examples\Shaders\Object.shader" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>E:/Kerja Paktek/github/DipoRentalAR/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.VSCode.Editor">
+ <HintPath>E:/Kerja Paktek/github/DipoRentalAR/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="VuforiaScripts">
  <HintPath>E:/Kerja Paktek/github/DipoRentalAR/Library/ScriptAssemblies/VuforiaScripts.dll</HintPath>
@@ -164,6 +169,9 @@
  <Reference Include="VuforiaEditorScripts">
  <HintPath>E:/Kerja Paktek/github/DipoRentalAR/Library/ScriptAssemblies/VuforiaEditorScripts.dll</HintPath>
  </Reference>
+ <Reference Include="Unity.CollabProxy.Editor">
+ <HintPath>E:/Kerja Paktek/github/DipoRentalAR/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.Rider.Editor">
  <HintPath>E:/Kerja Paktek/github/DipoRentalAR/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
@@ -172,12 +180,6 @@
  </Reference>
  <Reference Include="UnityEditor.UI">
  <HintPath>E:/Kerja Paktek/github/DipoRentalAR/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
- </Reference>
- <Reference Include="Unity.VSCode.Editor">
- <HintPath>E:/Kerja Paktek/github/DipoRentalAR/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>E:/Kerja Paktek/github/DipoRentalAR/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/Unity/Hub/Editor/2019.2.17f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
