@@ -5,8 +5,12 @@ using UnityEngine;
 public class menu : MonoBehaviour
 {
     // Start is called before the first frame update
-    public void GoToPaket(){
-		Application.LoadLevel("menu_sound");
+    public void GoToPilihPaket(){
+		Application.LoadLevel("menupaket");
+	}
+
+    public void GoToAboutUs(){
+		Application.LoadLevel("aboutus");
 	}
 
 	public void ExitApplication(){
