@@ -15,6 +15,24 @@ EditorBuildSettings:
     path: Assets/mainmenu.unity
     guid: ac95c1377eb46bb4289b2f517a723874
   - enabled: 1
+    path: Assets/menupaket.unity
+    guid: c6da2569b74c3bb4b99744e8c1091258
+  - enabled: 1
     path: Assets/menu_sound.unity
     guid: d6be574e0b198594f9c254c0b68afd18
+  - enabled: 1
+    path: Assets/menu_lighting.unity
+    guid: 1e06a5e411c3b614e8507e66b2794662
+  - enabled: 1
+    path: Assets/menu_multimedia.unity
+    guid: 02ddc5ffa8c202d4eb551608c446322b
+  - enabled: 1
+    path: Assets/menu_riggingstage.unity
+    guid: 4b5b4b6bfb3bd0a439ac3c13b7f401de
+  - enabled: 1
+    path: Assets/menu_tenda.unity
+    guid: c7d9e17c48777b24a91737b449fdb274
+  - enabled: 1
+    path: Assets/menu_retail.unity
+    guid: 2bf50584c05ca0a42bd1bdcd7caa99bc
   m_configObjects: {}
