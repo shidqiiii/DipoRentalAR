@@ -41,15 +41,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9746}
     - Class: 114
-      Script: {instanceID: 9956}
+      Script: {instanceID: 9960}
     - Class: 114
-      Script: {instanceID: 10310}
+      Script: {instanceID: 10314}
     - Class: 114
-      Script: {instanceID: 10368}
+      Script: {instanceID: 10372}
     - Class: 114
-      Script: {instanceID: 11446}
+      Script: {instanceID: 11456}
     - Class: 114
-      Script: {instanceID: 11898}
+      Script: {instanceID: 11908}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -84,19 +84,19 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9746}
     - Class: 114
-      Script: {instanceID: 9914}
+      Script: {instanceID: 9918}
     - Class: 114
-      Script: {instanceID: 9956}
+      Script: {instanceID: 9960}
     - Class: 114
-      Script: {instanceID: 10368}
+      Script: {instanceID: 10372}
     - Class: 114
-      Script: {instanceID: 10944}
+      Script: {instanceID: 10948}
     - Class: 114
-      Script: {instanceID: 10990}
+      Script: {instanceID: 10994}
     - Class: 114
-      Script: {instanceID: 11446}
+      Script: {instanceID: 11456}
     - Class: 114
-      Script: {instanceID: 11898}
+      Script: {instanceID: 11908}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -133,19 +133,19 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9746}
     - Class: 114
-      Script: {instanceID: 9914}
+      Script: {instanceID: 9918}
     - Class: 114
-      Script: {instanceID: 9948}
+      Script: {instanceID: 9952}
     - Class: 114
-      Script: {instanceID: 9956}
+      Script: {instanceID: 9960}
     - Class: 114
-      Script: {instanceID: 10368}
+      Script: {instanceID: 10372}
     - Class: 114
-      Script: {instanceID: 10944}
+      Script: {instanceID: 10948}
     - Class: 114
-      Script: {instanceID: 11446}
+      Script: {instanceID: 11456}
     - Class: 114
-      Script: {instanceID: 11898}
+      Script: {instanceID: 11908}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -182,17 +182,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9746}
     - Class: 114
-      Script: {instanceID: 9956}
+      Script: {instanceID: 9960}
     - Class: 114
-      Script: {instanceID: 10368}
+      Script: {instanceID: 10372}
     - Class: 114
-      Script: {instanceID: 10384}
+      Script: {instanceID: 10388}
     - Class: 114
-      Script: {instanceID: 10516}
+      Script: {instanceID: 10520}
     - Class: 114
-      Script: {instanceID: 11446}
+      Script: {instanceID: 11456}
     - Class: 114
-      Script: {instanceID: 11898}
+      Script: {instanceID: 11908}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -270,6 +270,12 @@ ScriptsOnlyBuild:
     className: RepeatFromCode
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: lighting
+  - hash:
+      serializedVersion: 2
       Hash: e7a73f5f78ba6445195ec23b74a1ce2d
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -280,6 +286,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: Lean.Transition.Method
     className: LeanTransformPosition
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: tenda
   - hash:
       serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
@@ -1110,6 +1122,12 @@ ScriptsOnlyBuild:
     className: VerticalLayoutGroup
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: multimedia
+  - hash:
+      serializedVersion: 2
       Hash: 5bc47267618bc4d3eaef6e24b8fb6e18
     assemblyName: Assembly-CSharp.dll
     namespaceName: Lean.Gui
@@ -1264,6 +1282,18 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: Lean.Transition.Method
     className: LeanRectTransformSetAsLastSibling
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: rigging
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: menupaket
   - hash:
       serializedVersion: 2
       Hash: 3b760e6526e13f7504f59e210145899a
@@ -1900,4 +1930,4 @@ ScriptsOnlyBuild:
   - Assets/loading.unity
   - Assets/mainmenu.unity
   - Assets/menu_sound.unity
-  playerPath: C:/Users/User/Downloads/DipoRental.apk
+  playerPath: C:/Users/Fadhli Hisyam/Documents/GitHub/DipoRentalAR/DipoRental Calatogue.apk
