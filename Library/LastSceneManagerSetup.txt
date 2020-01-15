@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/visimisi.unity
+- path: Assets/menu_riggingstage.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
