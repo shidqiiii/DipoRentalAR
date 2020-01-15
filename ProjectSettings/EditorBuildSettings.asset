@@ -15,6 +15,15 @@ EditorBuildSettings:
     path: Assets/mainmenu.unity
     guid: ac95c1377eb46bb4289b2f517a723874
   - enabled: 1
+    path: Assets/about.unity
+    guid: d573edf3624aeda4f97025e335063431
+  - enabled: 1
+    path: Assets/visimisi.unity
+    guid: a172156374f711a44b6a963f5faeea45
+  - enabled: 1
+    path: Assets/specialist.unity
+    guid: a1ce6ee1c71449b43bba058ec0be7a5e
+  - enabled: 1
     path: Assets/menupaket.unity
     guid: c6da2569b74c3bb4b99744e8c1091258
   - enabled: 1

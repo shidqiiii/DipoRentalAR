@@ -10,7 +10,7 @@ public class menu : MonoBehaviour
 	}
 
     public void GoToAboutUs(){
-		Application.LoadLevel("aboutus");
+		Application.LoadLevel("about");
 	}
 
 	public void ExitApplication(){

@@ -1,6 +1,7 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - about
     - lighting
     - loading
     - menu
@@ -8,8 +9,10 @@ ScriptsOnlyBuild:
     - multimedia
     - rigging
     - sound
+    - specialist
     - splash
     - tenda
+    - visimisi
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -25,6 +28,55 @@ ScriptsOnlyBuild:
     Vuforia.UnityExtensions.dll:
     - Vuforia.VuforiaConfiguration
   sceneClasses:
+    Assets/about.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 9746}
+    - Class: 114
+      Script: {instanceID: 9918}
+    - Class: 114
+      Script: {instanceID: 9960}
+    - Class: 114
+      Script: {instanceID: 10372}
+    - Class: 114
+      Script: {instanceID: 10948}
+    - Class: 114
+      Script: {instanceID: 11458}
+    - Class: 114
+      Script: {instanceID: 11912}
+    - Class: 114
+      Script: {instanceID: 11960}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
     Assets/loading.unity:
     - Class: 1
       Script: {instanceID: 0}
@@ -53,9 +105,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10372}
     - Class: 114
-      Script: {instanceID: 11456}
+      Script: {instanceID: 11458}
     - Class: 114
-      Script: {instanceID: 11908}
+      Script: {instanceID: 11912}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -102,9 +154,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11042}
     - Class: 114
-      Script: {instanceID: 11456}
+      Script: {instanceID: 11458}
     - Class: 114
-      Script: {instanceID: 11908}
+      Script: {instanceID: 11912}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -153,9 +205,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11042}
     - Class: 114
-      Script: {instanceID: 11456}
+      Script: {instanceID: 11458}
     - Class: 114
-      Script: {instanceID: 11908}
+      Script: {instanceID: 11912}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -204,9 +256,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11108}
     - Class: 114
-      Script: {instanceID: 11456}
+      Script: {instanceID: 11458}
     - Class: 114
-      Script: {instanceID: 11908}
+      Script: {instanceID: 11912}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -255,9 +307,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11042}
     - Class: 114
-      Script: {instanceID: 11456}
+      Script: {instanceID: 11458}
     - Class: 114
-      Script: {instanceID: 11908}
+      Script: {instanceID: 11912}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -304,11 +356,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11042}
     - Class: 114
-      Script: {instanceID: 11386}
+      Script: {instanceID: 11388}
     - Class: 114
-      Script: {instanceID: 11456}
+      Script: {instanceID: 11458}
     - Class: 114
-      Script: {instanceID: 11908}
+      Script: {instanceID: 11912}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -357,9 +409,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11042}
     - Class: 114
-      Script: {instanceID: 11456}
+      Script: {instanceID: 11458}
     - Class: 114
-      Script: {instanceID: 11908}
+      Script: {instanceID: 11912}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -408,9 +460,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11042}
     - Class: 114
-      Script: {instanceID: 11456}
+      Script: {instanceID: 11458}
     - Class: 114
-      Script: {instanceID: 11908}
+      Script: {instanceID: 11912}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -457,11 +509,60 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11042}
     - Class: 114
-      Script: {instanceID: 11388}
+      Script: {instanceID: 11390}
     - Class: 114
-      Script: {instanceID: 11456}
+      Script: {instanceID: 11458}
     - Class: 114
-      Script: {instanceID: 11908}
+      Script: {instanceID: 11912}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/specialist.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 9746}
+    - Class: 114
+      Script: {instanceID: 9918}
+    - Class: 114
+      Script: {instanceID: 9960}
+    - Class: 114
+      Script: {instanceID: 10372}
+    - Class: 114
+      Script: {instanceID: 10948}
+    - Class: 114
+      Script: {instanceID: 11330}
+    - Class: 114
+      Script: {instanceID: 11458}
+    - Class: 114
+      Script: {instanceID: 11912}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -506,9 +607,58 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10520}
     - Class: 114
-      Script: {instanceID: 11456}
+      Script: {instanceID: 11458}
     - Class: 114
-      Script: {instanceID: 11908}
+      Script: {instanceID: 11912}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/visimisi.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 9746}
+    - Class: 114
+      Script: {instanceID: 9918}
+    - Class: 114
+      Script: {instanceID: 9960}
+    - Class: 114
+      Script: {instanceID: 10372}
+    - Class: 114
+      Script: {instanceID: 10948}
+    - Class: 114
+      Script: {instanceID: 11458}
+    - Class: 114
+      Script: {instanceID: 11630}
+    - Class: 114
+      Script: {instanceID: 11912}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1582,6 +1732,12 @@ ScriptsOnlyBuild:
     className: LeanAnimationRepeater
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: specialist
+  - hash:
+      serializedVersion: 2
       Hash: 51ea7d22d97363b4a27ec6c69a1d3593
     assemblyName: Assembly-CSharp.dll
     namespaceName: Lean.Transition.Method
@@ -1682,6 +1838,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: visimisi
   - hash:
       serializedVersion: 2
       Hash: 3eec3d0f549eeeef6b133056a3e1f91a
@@ -2026,6 +2188,12 @@ ScriptsOnlyBuild:
     className: Slider
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: about
+  - hash:
+      serializedVersion: 2
       Hash: 0fd6822f6177297bd0eb4d83cc7a9030
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -2245,6 +2413,9 @@ ScriptsOnlyBuild:
   - Assets/splash.unity
   - Assets/loading.unity
   - Assets/mainmenu.unity
+  - Assets/about.unity
+  - Assets/visimisi.unity
+  - Assets/specialist.unity
   - Assets/menupaket.unity
   - Assets/menu_sound.unity
   - Assets/menu_lighting.unity
@@ -2252,4 +2423,4 @@ ScriptsOnlyBuild:
   - Assets/menu_riggingstage.unity
   - Assets/menu_tenda.unity
   - Assets/menu_retail.unity
-  playerPath: C:/Users/Fadhli Hisyam/Documents/GitHub/DipoRentalAR/DipoRental Calatogue.apk
+  playerPath: C:/Users/User/Downloads/DipoRental.apk
