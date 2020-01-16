@@ -273,6 +273,8 @@
      <Compile Include="Assets\Resources\splash.cs" />
      <Compile Include="Assets\Resources\tenda.cs" />
      <Compile Include="Assets\Resources\visimisi.cs" />
+     <Compile Include="Assets\Resources\vuforia script\lighting\menulighting.cs" />
+     <Compile Include="Assets\Resources\vuforia script\lighting\paketlighting.cs" />
      <Compile Include="Assets\Resources\vuforia script\rigging\paketmini.cs" />
      <Compile Include="Assets\Resources\vuforia script\rigging\paketmini1.cs" />
      <None Include="Assets\Lean\Common\Examples\Shaders\Alpha.shader" />
