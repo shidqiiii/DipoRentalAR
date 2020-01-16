@@ -5,8 +5,10 @@ ScriptsOnlyBuild:
     - lighting
     - loading
     - menu
+    - menulighting
     - menupaket
     - multimedia
+    - paketlighting
     - paketmini
     - paketmini1
     - rigging
@@ -38,6 +40,298 @@ ScriptsOnlyBuild:
     - DefaultInitializationErrorHandler
     - DefaultTrackableEventHandler
   sceneClasses:
+    Assets/Scenes AR/paket lighting/paketlighting1.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 9748}
+    - Class: 114
+      Script: {instanceID: 9864}
+    - Class: 114
+      Script: {instanceID: 9950}
+    - Class: 114
+      Script: {instanceID: 9994}
+    - Class: 114
+      Script: {instanceID: 10328}
+    - Class: 114
+      Script: {instanceID: 10350}
+    - Class: 114
+      Script: {instanceID: 10456}
+    - Class: 114
+      Script: {instanceID: 10574}
+    - Class: 114
+      Script: {instanceID: 10596}
+    - Class: 114
+      Script: {instanceID: 10604}
+    - Class: 114
+      Script: {instanceID: 10772}
+    - Class: 114
+      Script: {instanceID: 10850}
+    - Class: 114
+      Script: {instanceID: 11068}
+    - Class: 114
+      Script: {instanceID: 11128}
+    - Class: 114
+      Script: {instanceID: 11302}
+    - Class: 114
+      Script: {instanceID: 11642}
+    - Class: 114
+      Script: {instanceID: 12164}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes AR/paket lighting/paketlighting2.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 9748}
+    - Class: 114
+      Script: {instanceID: 9864}
+    - Class: 114
+      Script: {instanceID: 9950}
+    - Class: 114
+      Script: {instanceID: 9994}
+    - Class: 114
+      Script: {instanceID: 10328}
+    - Class: 114
+      Script: {instanceID: 10350}
+    - Class: 114
+      Script: {instanceID: 10456}
+    - Class: 114
+      Script: {instanceID: 10574}
+    - Class: 114
+      Script: {instanceID: 10596}
+    - Class: 114
+      Script: {instanceID: 10604}
+    - Class: 114
+      Script: {instanceID: 10772}
+    - Class: 114
+      Script: {instanceID: 10850}
+    - Class: 114
+      Script: {instanceID: 11068}
+    - Class: 114
+      Script: {instanceID: 11128}
+    - Class: 114
+      Script: {instanceID: 11302}
+    - Class: 114
+      Script: {instanceID: 11642}
+    - Class: 114
+      Script: {instanceID: 12164}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes AR/paket lighting/paketlighting3.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 9748}
+    - Class: 114
+      Script: {instanceID: 9864}
+    - Class: 114
+      Script: {instanceID: 9950}
+    - Class: 114
+      Script: {instanceID: 9994}
+    - Class: 114
+      Script: {instanceID: 10328}
+    - Class: 114
+      Script: {instanceID: 10350}
+    - Class: 114
+      Script: {instanceID: 10456}
+    - Class: 114
+      Script: {instanceID: 10574}
+    - Class: 114
+      Script: {instanceID: 10596}
+    - Class: 114
+      Script: {instanceID: 10604}
+    - Class: 114
+      Script: {instanceID: 10772}
+    - Class: 114
+      Script: {instanceID: 10850}
+    - Class: 114
+      Script: {instanceID: 11068}
+    - Class: 114
+      Script: {instanceID: 11128}
+    - Class: 114
+      Script: {instanceID: 11302}
+    - Class: 114
+      Script: {instanceID: 11642}
+    - Class: 114
+      Script: {instanceID: 12164}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes AR/paket lighting/paketlighting4.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 9748}
+    - Class: 114
+      Script: {instanceID: 9864}
+    - Class: 114
+      Script: {instanceID: 9950}
+    - Class: 114
+      Script: {instanceID: 9994}
+    - Class: 114
+      Script: {instanceID: 10328}
+    - Class: 114
+      Script: {instanceID: 10350}
+    - Class: 114
+      Script: {instanceID: 10456}
+    - Class: 114
+      Script: {instanceID: 10574}
+    - Class: 114
+      Script: {instanceID: 10596}
+    - Class: 114
+      Script: {instanceID: 10604}
+    - Class: 114
+      Script: {instanceID: 10772}
+    - Class: 114
+      Script: {instanceID: 10850}
+    - Class: 114
+      Script: {instanceID: 11068}
+    - Class: 114
+      Script: {instanceID: 11128}
+    - Class: 114
+      Script: {instanceID: 11302}
+    - Class: 114
+      Script: {instanceID: 11642}
+    - Class: 114
+      Script: {instanceID: 12164}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
     Assets/Scenes AR/paket rigging/paketmini.unity:
     - Class: 1
       Script: {instanceID: 0}
@@ -64,37 +358,37 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9746}
+      Script: {instanceID: 9748}
     - Class: 114
-      Script: {instanceID: 9918}
+      Script: {instanceID: 9950}
     - Class: 114
-      Script: {instanceID: 9960}
+      Script: {instanceID: 9994}
     - Class: 114
-      Script: {instanceID: 10260}
+      Script: {instanceID: 10328}
     - Class: 114
-      Script: {instanceID: 10282}
+      Script: {instanceID: 10350}
     - Class: 114
-      Script: {instanceID: 10372}
+      Script: {instanceID: 10456}
     - Class: 114
-      Script: {instanceID: 10488}
+      Script: {instanceID: 10574}
     - Class: 114
-      Script: {instanceID: 10510}
+      Script: {instanceID: 10596}
     - Class: 114
-      Script: {instanceID: 10518}
+      Script: {instanceID: 10604}
     - Class: 114
-      Script: {instanceID: 10748}
+      Script: {instanceID: 10642}
     - Class: 114
-      Script: {instanceID: 10948}
+      Script: {instanceID: 10850}
     - Class: 114
-      Script: {instanceID: 11156}
+      Script: {instanceID: 11068}
     - Class: 114
-      Script: {instanceID: 11458}
+      Script: {instanceID: 11128}
     - Class: 114
-      Script: {instanceID: 11912}
+      Script: {instanceID: 11302}
     - Class: 114
-      Script: {instanceID: 28810}
+      Script: {instanceID: 11642}
     - Class: 114
-      Script: {instanceID: 40924}
+      Script: {instanceID: 12164}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -129,21 +423,21 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9746}
+      Script: {instanceID: 9748}
     - Class: 114
-      Script: {instanceID: 9918}
+      Script: {instanceID: 9950}
     - Class: 114
-      Script: {instanceID: 9960}
+      Script: {instanceID: 9994}
     - Class: 114
-      Script: {instanceID: 10372}
+      Script: {instanceID: 10456}
     - Class: 114
-      Script: {instanceID: 10948}
+      Script: {instanceID: 11068}
     - Class: 114
-      Script: {instanceID: 11458}
+      Script: {instanceID: 11642}
     - Class: 114
-      Script: {instanceID: 11912}
+      Script: {instanceID: 12164}
     - Class: 114
-      Script: {instanceID: 11960}
+      Script: {instanceID: 12214}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -178,17 +472,17 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9746}
+      Script: {instanceID: 9748}
     - Class: 114
-      Script: {instanceID: 9960}
+      Script: {instanceID: 9994}
     - Class: 114
-      Script: {instanceID: 10314}
+      Script: {instanceID: 10392}
     - Class: 114
-      Script: {instanceID: 10372}
+      Script: {instanceID: 10456}
     - Class: 114
-      Script: {instanceID: 11458}
+      Script: {instanceID: 11642}
     - Class: 114
-      Script: {instanceID: 11912}
+      Script: {instanceID: 12164}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -221,23 +515,23 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9746}
+      Script: {instanceID: 9748}
     - Class: 114
-      Script: {instanceID: 9918}
+      Script: {instanceID: 9950}
     - Class: 114
-      Script: {instanceID: 9960}
+      Script: {instanceID: 9994}
     - Class: 114
-      Script: {instanceID: 10372}
+      Script: {instanceID: 10456}
     - Class: 114
-      Script: {instanceID: 10948}
+      Script: {instanceID: 11068}
     - Class: 114
-      Script: {instanceID: 10994}
+      Script: {instanceID: 11120}
     - Class: 114
-      Script: {instanceID: 11042}
+      Script: {instanceID: 11174}
     - Class: 114
-      Script: {instanceID: 11458}
+      Script: {instanceID: 11642}
     - Class: 114
-      Script: {instanceID: 11912}
+      Script: {instanceID: 12164}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -272,23 +566,23 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9746}
+      Script: {instanceID: 9748}
     - Class: 114
-      Script: {instanceID: 9854}
+      Script: {instanceID: 9882}
     - Class: 114
-      Script: {instanceID: 9918}
+      Script: {instanceID: 9950}
     - Class: 114
-      Script: {instanceID: 9960}
+      Script: {instanceID: 9994}
     - Class: 114
-      Script: {instanceID: 10372}
+      Script: {instanceID: 10456}
     - Class: 114
-      Script: {instanceID: 10948}
+      Script: {instanceID: 11068}
     - Class: 114
-      Script: {instanceID: 11042}
+      Script: {instanceID: 11174}
     - Class: 114
-      Script: {instanceID: 11458}
+      Script: {instanceID: 11642}
     - Class: 114
-      Script: {instanceID: 11912}
+      Script: {instanceID: 12164}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -323,23 +617,23 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9746}
+      Script: {instanceID: 9748}
     - Class: 114
-      Script: {instanceID: 9918}
+      Script: {instanceID: 9950}
     - Class: 114
-      Script: {instanceID: 9960}
+      Script: {instanceID: 9994}
     - Class: 114
-      Script: {instanceID: 10372}
+      Script: {instanceID: 10456}
     - Class: 114
-      Script: {instanceID: 10948}
+      Script: {instanceID: 11068}
     - Class: 114
-      Script: {instanceID: 11042}
+      Script: {instanceID: 11174}
     - Class: 114
-      Script: {instanceID: 11108}
+      Script: {instanceID: 11242}
     - Class: 114
-      Script: {instanceID: 11458}
+      Script: {instanceID: 11642}
     - Class: 114
-      Script: {instanceID: 11912}
+      Script: {instanceID: 12164}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -374,23 +668,23 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9746}
+      Script: {instanceID: 9748}
     - Class: 114
-      Script: {instanceID: 9918}
+      Script: {instanceID: 9950}
     - Class: 114
-      Script: {instanceID: 9960}
+      Script: {instanceID: 9994}
     - Class: 114
-      Script: {instanceID: 10372}
+      Script: {instanceID: 10456}
     - Class: 114
-      Script: {instanceID: 10948}
+      Script: {instanceID: 11068}
     - Class: 114
-      Script: {instanceID: 10994}
+      Script: {instanceID: 11120}
     - Class: 114
-      Script: {instanceID: 11042}
+      Script: {instanceID: 11174}
     - Class: 114
-      Script: {instanceID: 11458}
+      Script: {instanceID: 11642}
     - Class: 114
-      Script: {instanceID: 11912}
+      Script: {instanceID: 12164}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -425,23 +719,23 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9746}
+      Script: {instanceID: 9748}
     - Class: 114
-      Script: {instanceID: 9918}
+      Script: {instanceID: 9950}
     - Class: 114
-      Script: {instanceID: 9960}
+      Script: {instanceID: 9994}
     - Class: 114
-      Script: {instanceID: 10372}
+      Script: {instanceID: 10456}
     - Class: 114
-      Script: {instanceID: 10948}
+      Script: {instanceID: 11068}
     - Class: 114
-      Script: {instanceID: 11042}
+      Script: {instanceID: 11174}
     - Class: 114
-      Script: {instanceID: 11388}
+      Script: {instanceID: 11564}
     - Class: 114
-      Script: {instanceID: 11458}
+      Script: {instanceID: 11642}
     - Class: 114
-      Script: {instanceID: 11912}
+      Script: {instanceID: 12164}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -476,23 +770,23 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9746}
+      Script: {instanceID: 9748}
     - Class: 114
-      Script: {instanceID: 9918}
+      Script: {instanceID: 9950}
     - Class: 114
-      Script: {instanceID: 9952}
+      Script: {instanceID: 9986}
     - Class: 114
-      Script: {instanceID: 9960}
+      Script: {instanceID: 9994}
     - Class: 114
-      Script: {instanceID: 10372}
+      Script: {instanceID: 10456}
     - Class: 114
-      Script: {instanceID: 10948}
+      Script: {instanceID: 11068}
     - Class: 114
-      Script: {instanceID: 11042}
+      Script: {instanceID: 11174}
     - Class: 114
-      Script: {instanceID: 11458}
+      Script: {instanceID: 11642}
     - Class: 114
-      Script: {instanceID: 11912}
+      Script: {instanceID: 12164}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -527,23 +821,23 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9746}
+      Script: {instanceID: 9748}
     - Class: 114
-      Script: {instanceID: 9870}
+      Script: {instanceID: 9898}
     - Class: 114
-      Script: {instanceID: 9918}
+      Script: {instanceID: 9950}
     - Class: 114
-      Script: {instanceID: 9960}
+      Script: {instanceID: 9994}
     - Class: 114
-      Script: {instanceID: 10372}
+      Script: {instanceID: 10456}
     - Class: 114
-      Script: {instanceID: 10948}
+      Script: {instanceID: 11068}
     - Class: 114
-      Script: {instanceID: 11042}
+      Script: {instanceID: 11174}
     - Class: 114
-      Script: {instanceID: 11458}
+      Script: {instanceID: 11642}
     - Class: 114
-      Script: {instanceID: 11912}
+      Script: {instanceID: 12164}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -578,23 +872,23 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9746}
+      Script: {instanceID: 9748}
     - Class: 114
-      Script: {instanceID: 9918}
+      Script: {instanceID: 9950}
     - Class: 114
-      Script: {instanceID: 9960}
+      Script: {instanceID: 9994}
     - Class: 114
-      Script: {instanceID: 10372}
+      Script: {instanceID: 10456}
     - Class: 114
-      Script: {instanceID: 10948}
+      Script: {instanceID: 11068}
     - Class: 114
-      Script: {instanceID: 11042}
+      Script: {instanceID: 11174}
     - Class: 114
-      Script: {instanceID: 11390}
+      Script: {instanceID: 11566}
     - Class: 114
-      Script: {instanceID: 11458}
+      Script: {instanceID: 11642}
     - Class: 114
-      Script: {instanceID: 11912}
+      Script: {instanceID: 12164}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -629,21 +923,21 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9746}
+      Script: {instanceID: 9748}
     - Class: 114
-      Script: {instanceID: 9918}
+      Script: {instanceID: 9950}
     - Class: 114
-      Script: {instanceID: 9960}
+      Script: {instanceID: 9994}
     - Class: 114
-      Script: {instanceID: 10372}
+      Script: {instanceID: 10456}
     - Class: 114
-      Script: {instanceID: 10948}
+      Script: {instanceID: 11068}
     - Class: 114
-      Script: {instanceID: 11330}
+      Script: {instanceID: 11500}
     - Class: 114
-      Script: {instanceID: 11458}
+      Script: {instanceID: 11642}
     - Class: 114
-      Script: {instanceID: 11912}
+      Script: {instanceID: 12164}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -690,19 +984,19 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9746}
+      Script: {instanceID: 9748}
     - Class: 114
-      Script: {instanceID: 9960}
+      Script: {instanceID: 9994}
     - Class: 114
-      Script: {instanceID: 10372}
+      Script: {instanceID: 10456}
     - Class: 114
-      Script: {instanceID: 10388}
+      Script: {instanceID: 10474}
     - Class: 114
-      Script: {instanceID: 10520}
+      Script: {instanceID: 10606}
     - Class: 114
-      Script: {instanceID: 11458}
+      Script: {instanceID: 11642}
     - Class: 114
-      Script: {instanceID: 11912}
+      Script: {instanceID: 12164}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -737,21 +1031,21 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9746}
+      Script: {instanceID: 9748}
     - Class: 114
-      Script: {instanceID: 9918}
+      Script: {instanceID: 9950}
     - Class: 114
-      Script: {instanceID: 9960}
+      Script: {instanceID: 9994}
     - Class: 114
-      Script: {instanceID: 10372}
+      Script: {instanceID: 10456}
     - Class: 114
-      Script: {instanceID: 10948}
+      Script: {instanceID: 11068}
     - Class: 114
-      Script: {instanceID: 11458}
+      Script: {instanceID: 11642}
     - Class: 114
-      Script: {instanceID: 11630}
+      Script: {instanceID: 11842}
     - Class: 114
-      Script: {instanceID: 11912}
+      Script: {instanceID: 12164}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -769,6 +1063,12 @@ ScriptsOnlyBuild:
   scriptHashData:
   - hash:
       serializedVersion: 2
+      Hash: 40c7e7f1a2edc2c9a8f8b3dda0fe5aad
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanPongBall
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: VuforiaScripts.dll
     namespaceName: 
@@ -781,10 +1081,34 @@ ScriptsOnlyBuild:
     className: CanvasScaler
   - hash:
       serializedVersion: 2
+      Hash: 47813da322a941b83761134dfbd53b94
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanSpawnWithFinger
+  - hash:
+      serializedVersion: 2
+      Hash: 20e34497709a0d6b8581a770cf8f0be6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Localization
+    className: LeanLocalizedAudioSource
+  - hash:
+      serializedVersion: 2
       Hash: 3c08375166df118bd1801438fc36b92f
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_SelectionCaret
+  - hash:
+      serializedVersion: 2
+      Hash: 13f7c7b3cb85830b9bf1da0f58faca1e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanFingerSet
+  - hash:
+      serializedVersion: 2
+      Hash: 7f959f067fec53f0ef89507d954b2baf
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Localization
+    className: LeanLanguageCSV
   - hash:
       serializedVersion: 2
       Hash: 42bdfa9c19fa0e22d271f8494a697258
@@ -799,16 +1123,46 @@ ScriptsOnlyBuild:
     className: AudioPlayableAsset
   - hash:
       serializedVersion: 2
+      Hash: dc628856964e5e342cefa6c4a581b0e0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanTwistCamera
+  - hash:
+      serializedVersion: 2
       Hash: 626925ef558787b2d85c809198164d19
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_Dropdown
   - hash:
       serializedVersion: 2
+      Hash: 549fae01e40ade0b062e59a15ada4c04
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Localization
+    className: LeanLocalizedSpriteRenderer
+  - hash:
+      serializedVersion: 2
       Hash: c567ada6c07ef421158ac9840555436d
     assemblyName: Assembly-CSharp.dll
     namespaceName: Lean.Transition.Examples
     className: LeanAnimation
+  - hash:
+      serializedVersion: 2
+      Hash: 5d89e2bacb4b183bce139f3b3d909bcf
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanGestureToggle
+  - hash:
+      serializedVersion: 2
+      Hash: d06f89c96382d672bf247f6dac8ee03e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Localization
+    className: LeanLocalizedTextFont
+  - hash:
+      serializedVersion: 2
+      Hash: 10d13beee1ab3e9c2ead3577655c55ea
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanShapeDetector
   - hash:
       serializedVersion: 2
       Hash: 773bffb517b005596ee23b6905687a43
@@ -823,10 +1177,28 @@ ScriptsOnlyBuild:
     className: LeanJoinInsert
   - hash:
       serializedVersion: 2
+      Hash: 560bbc9fb5214b9a13ad0de4fd2b9b43
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanFingerDown
+  - hash:
+      serializedVersion: 2
+      Hash: 54bb4b1d256fadcc22d2c606f6b067fe
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: paketlighting
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: RepeatFromCode
+  - hash:
+      serializedVersion: 2
+      Hash: 47b773aafac254ca365722e1da7323a1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanManualTranslate
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -863,6 +1235,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: ActivationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 1479a28460ac4555102a0bb4c1e87a2b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanSelectableTime
   - hash:
       serializedVersion: 2
       Hash: 72712369a7c681ad84fc255a5ec0b333
@@ -913,6 +1291,12 @@ ScriptsOnlyBuild:
     className: TestResultRendererCallback
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanTouchEvents
+  - hash:
+      serializedVersion: 2
       Hash: ff4ed0277d894331a213aecd8eebedee
     assemblyName: Assembly-CSharp.dll
     namespaceName: Lean.Gui
@@ -931,6 +1315,12 @@ ScriptsOnlyBuild:
     className: LeanRectTransformAnchoredPositionY
   - hash:
       serializedVersion: 2
+      Hash: d0a4ae68074de4b1763e86da0a9e6490
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Localization
+    className: LeanLocalizedDropdown
+  - hash:
+      serializedVersion: 2
       Hash: a1fcc866397a836af63817d24343caca
     assemblyName: Assembly-CSharp.dll
     namespaceName: Lean.Common.Examples
@@ -943,10 +1333,28 @@ ScriptsOnlyBuild:
     className: GridLayoutGroup
   - hash:
       serializedVersion: 2
+      Hash: dbda50f8aae04cd809bdbbce69f865cc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanSelect
+  - hash:
+      serializedVersion: 2
+      Hash: 3791136a68ce8d1b1bccc2e67d7ac460
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanFingerTapExpired
+  - hash:
+      serializedVersion: 2
       Hash: 2dabd3fc4fdd21baa7eb1815cf3d3ef4
     assemblyName: Assembly-CSharp.dll
     namespaceName: Lean.Transition.Method
     className: LeanGraphicColor
+  - hash:
+      serializedVersion: 2
+      Hash: dfa2fc8127c72d10ada02d88d89a048c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanMultiSwipe
   - hash:
       serializedVersion: 2
       Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
@@ -961,6 +1369,12 @@ ScriptsOnlyBuild:
     className: SignalAsset
   - hash:
       serializedVersion: 2
+      Hash: fe29ae2aa38c9237768b1f22cddf449d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanTwistRotateAxis
+  - hash:
+      serializedVersion: 2
       Hash: 0dbc3be398b4869a5c8d0d8481ee402c
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -973,10 +1387,34 @@ ScriptsOnlyBuild:
     className: PhysicsRaycaster
   - hash:
       serializedVersion: 2
+      Hash: eb27b06c0eaa67d17f6c84edaee630af
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanRoll
+  - hash:
+      serializedVersion: 2
+      Hash: cf1ad9af57e51d3949ba525fb4534068
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanDestroy
+  - hash:
+      serializedVersion: 2
+      Hash: ed228351b76b5af705c5ba7a49fb9281
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanDragDeformMesh
+  - hash:
+      serializedVersion: 2
       Hash: bd3cf68c8964d3c66d1c43f4f98508c9
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: AnimationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 4ad1d6459d294e13b9ec46b02b695cf8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Localization
+    className: LeanLocalizedTextMeshProUGUIFont
   - hash:
       serializedVersion: 2
       Hash: e5a662e2ea6fc278bd41837326ae76b1
@@ -989,6 +1427,18 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: f5d15aed0327813d8dd40f68f1972452
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanSpawnBetween
+  - hash:
+      serializedVersion: 2
+      Hash: 6fc58e63e69705c3f7f5219cb46d8d6e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanConstrainToDirection
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -1009,6 +1459,12 @@ ScriptsOnlyBuild:
     className: TMP_SubMeshUI
   - hash:
       serializedVersion: 2
+      Hash: f27e63c9f2c5e9206771e0696df87f86
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanRotateToTransform
+  - hash:
+      serializedVersion: 2
       Hash: 0d85f4fda1e0e70cd92c084d12f05cdc
     assemblyName: Assembly-CSharp.dll
     namespaceName: Lean.Gui
@@ -1027,10 +1483,22 @@ ScriptsOnlyBuild:
     className: LeanSelectionManager
   - hash:
       serializedVersion: 2
+      Hash: e988e3b046b67770f5a68c4b211946d4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Localization
+    className: LeanLocalizedRenderer
+  - hash:
+      serializedVersion: 2
       Hash: 5ab533713adae59372fb3e10a585c186
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: AnimationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 549fae01e40ade0b062e59a15ada4c04
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Localization
+    className: LeanLocalizedImage
   - hash:
       serializedVersion: 2
       Hash: 15b05eacffe39e7450c6344cec41cc6c
@@ -1057,10 +1525,34 @@ ScriptsOnlyBuild:
     className: Mask
   - hash:
       serializedVersion: 2
+      Hash: 6c1ab29ddfcd6014cccb0aadc55da469
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanPlane
+  - hash:
+      serializedVersion: 2
+      Hash: a0be7bdd09a2f446702af1127a1e5c64
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanMouseWheel
+  - hash:
+      serializedVersion: 2
+      Hash: 9bf3379c23afbe046bcab4d56501518c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanDragLine
+  - hash:
+      serializedVersion: 2
       Hash: caa533b001ae39b864ba8425019e2268
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: ee6a55fd6f4f0f59591afbf34813acf4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanFingerSwipe
   - hash:
       serializedVersion: 2
       Hash: 0da877ad61f6f92a3d18e7ff69459997
@@ -1075,10 +1567,28 @@ ScriptsOnlyBuild:
     className: loading
   - hash:
       serializedVersion: 2
+      Hash: 6b0365728da0659ead138e33836038d2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanReplayFinger
+  - hash:
+      serializedVersion: 2
       Hash: cf326ce230964136ae1d36b9f43d1279
     assemblyName: Assembly-CSharp.dll
     namespaceName: Lean.Gui
     className: LeanToggle
+  - hash:
+      serializedVersion: 2
+      Hash: 272d716800bf643a87f0f8665c096c5e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanMultiPinch
+  - hash:
+      serializedVersion: 2
+      Hash: 5f0a1878b4792ac6d0fe1b5ac4d62202
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Localization
+    className: LeanToken
   - hash:
       serializedVersion: 2
       Hash: cc4274b586df3c02688bac01b88bd16c
@@ -1091,6 +1601,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 7860832397fc33637bafb3799a769330
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanFollow
   - hash:
       serializedVersion: 2
       Hash: 99ccdc335ab6ab11c24e05039f42ee96
@@ -1345,6 +1861,18 @@ ScriptsOnlyBuild:
     className: LeanHover
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: paketmini1
+  - hash:
+      serializedVersion: 2
+      Hash: 5a96e1bcd2eca7ee45c00d90e54af4fe
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanChaseRigidbody
+  - hash:
+      serializedVersion: 2
       Hash: 0077fc8e4fbae67f80e80ebd534de5a0
     assemblyName: Vuforia.UnityExtensions.dll
     namespaceName: Vuforia
@@ -1543,16 +2071,46 @@ ScriptsOnlyBuild:
     className: WireframeTrackableEventHandler
   - hash:
       serializedVersion: 2
+      Hash: 9fa74bdc972e293802cba46127eda51e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanDropCount
+  - hash:
+      serializedVersion: 2
+      Hash: ca2ca37ebdd5efb3348ba65185071cb5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanPitchYaw
+  - hash:
+      serializedVersion: 2
+      Hash: a73cc7e0d8575dd7105e0f0616a7253a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanPulseScale
+  - hash:
+      serializedVersion: 2
       Hash: f17ecd00eb0dc6aee44ebcea2249ff0a
     assemblyName: Assembly-CSharp.dll
     namespaceName: Lean.Gui
     className: LeanButton
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: menulighting
+  - hash:
+      serializedVersion: 2
       Hash: b3ab2106268377ffe25dd18ac23dca28
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_Asset
+  - hash:
+      serializedVersion: 2
+      Hash: 16b319a1ac7e425a5308867b8aa0b7eb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Localization
+    className: LeanLocalization
   - hash:
       serializedVersion: 2
       Hash: 4f3f10dad89d5225a1e265a310b83997
@@ -1567,16 +2125,46 @@ ScriptsOnlyBuild:
     className: ScrollRect
   - hash:
       serializedVersion: 2
+      Hash: f7af6c2343b57f2cf7337bc0234e229e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanSelectableBlock
+  - hash:
+      serializedVersion: 2
       Hash: b57385816852c6e2fbdf9c2c3b832e02
     assemblyName: Assembly-CSharp.dll
     namespaceName: Lean.Transition.Method
     className: LeanCanvasGroupInteractable
   - hash:
       serializedVersion: 2
+      Hash: f130a8423e6424a57c8b7679ec028c5d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanTwistRotate
+  - hash:
+      serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 32cee6aea50ca79a1ef512e2cb8dbf18
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanMultiTap
+  - hash:
+      serializedVersion: 2
+      Hash: 94787cde64aea8d2ddd6cf5584f4b697
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanInfoText
+  - hash:
+      serializedVersion: 2
+      Hash: 7c5d03d32c7c864e5cee46c60824be93
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanPitchYawAutoRotate
   - hash:
       serializedVersion: 2
       Hash: e6ae43036653ccf5c1c1f0ccde24349f
@@ -1589,6 +2177,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_SpriteAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 730b5ec11882948cb26a5d523e824d77
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanSelectableDrop
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -1621,6 +2215,24 @@ ScriptsOnlyBuild:
     className: LeanRectTransformAnchorMin
   - hash:
       serializedVersion: 2
+      Hash: bb38cc0904c660000566ba4c623acfc9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanDragTranslateRigidbody2D
+  - hash:
+      serializedVersion: 2
+      Hash: 83d7b82014876d355665d0e75b951373
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanManualTranslateRigidbody2D
+  - hash:
+      serializedVersion: 2
+      Hash: 8f52adb6902d624e2f179170dc932b45
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanFingerDownCanvas
+  - hash:
+      serializedVersion: 2
       Hash: 6913b40f5fcc093535b882698638cdaa
     assemblyName: Assembly-CSharp.dll
     namespaceName: Lean.Gui
@@ -1639,6 +2251,18 @@ ScriptsOnlyBuild:
     className: Button
   - hash:
       serializedVersion: 2
+      Hash: a4a8c6224b1d84d71178bfc703041187
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanDragSelect
+  - hash:
+      serializedVersion: 2
+      Hash: f53631729ee67617a68a01a38ef253c1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanSelectableDial
+  - hash:
+      serializedVersion: 2
       Hash: e42df03a00dc2c71afedf0af09f062e0
     assemblyName: Assembly-CSharp.dll
     namespaceName: Lean.Transition.Method
@@ -1651,16 +2275,40 @@ ScriptsOnlyBuild:
     className: RawImage
   - hash:
       serializedVersion: 2
+      Hash: 4691c6be9c9ae8ed61d75186f60a5bd4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanDrop
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: menu
   - hash:
       serializedVersion: 2
+      Hash: 72be464cae07429f847cf1e15217fca3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Localization
+    className: LeanLocalizedTextMeshProUGUI
+  - hash:
+      serializedVersion: 2
       Hash: 7f28288592a4a21fe80e28c3d4db9434
     assemblyName: Assembly-CSharp.dll
     namespaceName: Lean.Gui
     className: LeanSwitch
+  - hash:
+      serializedVersion: 2
+      Hash: 54bb4b1d256fadcc22d2c606f6b067fe
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: paketmini
+  - hash:
+      serializedVersion: 2
+      Hash: 964dce81080816542d4e5b1440191200
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanTouch
   - hash:
       serializedVersion: 2
       Hash: 4326d1e3ad2be563855e0ee0cac8ddb9
@@ -1681,6 +2329,12 @@ ScriptsOnlyBuild:
     className: VerticalLayoutGroup
   - hash:
       serializedVersion: 2
+      Hash: 72be464cae07429f847cf1e15217fca3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Localization
+    className: LeanLocalizedTextMesh
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
@@ -1691,6 +2345,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: Lean.Gui
     className: LeanTooltipData
+  - hash:
+      serializedVersion: 2
+      Hash: d0fae106e2927a8a85feaf394ef55203
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanSelectableSelected
   - hash:
       serializedVersion: 2
       Hash: d0ec4daefd329c5ea75e565c364bd88b
@@ -1709,6 +2369,36 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: Lean.Gui
     className: LeanSelectionHighlight
+  - hash:
+      serializedVersion: 2
+      Hash: bb38cc0904c660000566ba4c623acfc9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanDragTranslateRigidbody
+  - hash:
+      serializedVersion: 2
+      Hash: 4abb42134c98d19ba1f78cfa108f6dce
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanSwap
+  - hash:
+      serializedVersion: 2
+      Hash: 40b1cdd88abc88f8ee714b9bfc4d5da1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanManualVelocity
+  - hash:
+      serializedVersion: 2
+      Hash: 5a96e1bcd2eca7ee45c00d90e54af4fe
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanChaseRigidbody2D
+  - hash:
+      serializedVersion: 2
+      Hash: c419257ca9a73c550a7b7c65f67deb6a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanDragCamera
   - hash:
       serializedVersion: 2
       Hash: 783f593b9380cf72d0f7ebfd4a0d4bcd
@@ -1771,6 +2461,12 @@ ScriptsOnlyBuild:
     className: ActivationPlayableAsset
   - hash:
       serializedVersion: 2
+      Hash: ed0086bd4d9f3ad47b08d6840d92bcbc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanMultiPull
+  - hash:
+      serializedVersion: 2
       Hash: 18c222bef9ae745ce69ddde9b74337ca
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
@@ -1783,10 +2479,52 @@ ScriptsOnlyBuild:
     className: LeanGameObjectSetActive
   - hash:
       serializedVersion: 2
+      Hash: 2bdbdfd29ae156a056b41a2a9bfe43ab
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanConstrainToColliders
+  - hash:
+      serializedVersion: 2
+      Hash: 41e12cbf2fc1e0d150e38818380ef7fe
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanPath
+  - hash:
+      serializedVersion: 2
       Hash: c1933cc0a2f4ff6eb13333347497beb3
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: TimelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: a4ffa6bc28a5a8d937cd8beac7f03196
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanSelectable
+  - hash:
+      serializedVersion: 2
+      Hash: 9377c5eab1264dc7c458b9a043303194
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanStepValue2D
+  - hash:
+      serializedVersion: 2
+      Hash: af00771d3bde5c5f351de55bdf8a101b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanManualSwipe
+  - hash:
+      serializedVersion: 2
+      Hash: 253ead52687ebcf6bf2e6bb68055e28a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanFingerOld
+  - hash:
+      serializedVersion: 2
+      Hash: 75260295474ef2d59d34196afb2549aa
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanManualVelocity2D
   - hash:
       serializedVersion: 2
       Hash: 17893e2521c89c54eb92d0b861475d8f
@@ -1813,6 +2551,12 @@ ScriptsOnlyBuild:
     className: LeanLinkTo
   - hash:
       serializedVersion: 2
+      Hash: 254f15097e2a3f696d7840f0ef8a6263
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanSelectableCount
+  - hash:
+      serializedVersion: 2
       Hash: 83540cc1c8ca8130c1d73cb8a25d1a02
     assemblyName: Assembly-CSharp.dll
     namespaceName: Lean.Transition.Method
@@ -1837,10 +2581,28 @@ ScriptsOnlyBuild:
     className: LeanRectTransformSizeDelta
   - hash:
       serializedVersion: 2
+      Hash: c5d69551fc1ea1e3224190d19f0150d4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanMultiSet
+  - hash:
+      serializedVersion: 2
       Hash: dff7a11839abb9fb7222280cf3c0a95a
     assemblyName: VuforiaScripts.dll
     namespaceName: 
     className: DefaultModelRecoEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 95c1cfaedb4c9235f57570bddd2f0d86
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanPinchScale
+  - hash:
+      serializedVersion: 2
+      Hash: 769488cea16f17344a99aa536df1a5ef
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanSwipeEdge
   - hash:
       serializedVersion: 2
       Hash: 09eae5a1a7bcd7ef91ee47e07752d772
@@ -1867,6 +2629,24 @@ ScriptsOnlyBuild:
     className: TextMeshProUGUI
   - hash:
       serializedVersion: 2
+      Hash: ee6a55fd6f4f0f59591afbf34813acf4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanFingerFlick
+  - hash:
+      serializedVersion: 2
+      Hash: ab74db3112376c1b98946df54ab5e472
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Common.Examples
+    className: LeanMarker
+  - hash:
+      serializedVersion: 2
+      Hash: 72be464cae07429f847cf1e15217fca3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Localization
+    className: LeanLocalizedText
+  - hash:
+      serializedVersion: 2
       Hash: 82fa046aa9efa49c6a613713c447cc65
     assemblyName: Assembly-CSharp.dll
     namespaceName: Lean.Transition.Method
@@ -1891,10 +2671,34 @@ ScriptsOnlyBuild:
     className: GraphicRaycaster
   - hash:
       serializedVersion: 2
+      Hash: 1a789b3e4759967465acf6dac8ed39dc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanConstrainToCollider
+  - hash:
+      serializedVersion: 2
       Hash: 88cc9df3c6fc697bfbeacd24c0d6f2d7
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools
     className: BeforeAfterTestCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: ec54355e8ab2c0b2323fbfc09e31bc70
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanSelectableDragTorque
+  - hash:
+      serializedVersion: 2
+      Hash: 0e252809328cc064433ebed8e03533e2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanSelectionBox
+  - hash:
+      serializedVersion: 2
+      Hash: 9277194e3007f91c41cc4dd392ebc5cb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanSelectableSpriteRendererColor
   - hash:
       serializedVersion: 2
       Hash: bbac40a1480feb9b48e01287a3776b69
@@ -1903,10 +2707,46 @@ ScriptsOnlyBuild:
     className: LeanDelay
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Common.Examples
+    className: LeanOpenUrl
+  - hash:
+      serializedVersion: 2
+      Hash: d06f89c96382d672bf247f6dac8ee03e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Localization
+    className: LeanLocalizedTextMeshFont
+  - hash:
+      serializedVersion: 2
+      Hash: e793e4ea83e3d40a5a248af575e7d5cc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanFingerTap
+  - hash:
+      serializedVersion: 2
+      Hash: 833ca6891b09902182ac3a3ca19ab24e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanRotateToRigidbody2D
+  - hash:
+      serializedVersion: 2
       Hash: 82af3f7c59437e49d9ebf553b0920fff
     assemblyName: Assembly-CSharp.dll
     namespaceName: Lean.Transition.Method
     className: LeanTransformLocalScaleXY
+  - hash:
+      serializedVersion: 2
+      Hash: f8f527f5803f4b1015d8b93758d72f93
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanPinchCamera
+  - hash:
+      serializedVersion: 2
+      Hash: fb40c936b55b941f573f0c2d99c129a4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanShape
   - hash:
       serializedVersion: 2
       Hash: 438e840b6c09cbdb49fcc4a0e9e2b772
@@ -1921,10 +2761,22 @@ ScriptsOnlyBuild:
     className: MarkerTrack
   - hash:
       serializedVersion: 2
+      Hash: 4b24abb363c85e826692a694e6d9097e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanManualRotate
+  - hash:
+      serializedVersion: 2
       Hash: 0267e9c853a8f88924478d2391ebfcf5
     assemblyName: Assembly-CSharp.dll
     namespaceName: Lean.Transition.Method
     className: LeanEvent
+  - hash:
+      serializedVersion: 2
+      Hash: 7bbcffe32da00329d8b2f9f2639aed10
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanManualTranslateRigidbody
   - hash:
       serializedVersion: 2
       Hash: d791aa6007fa3640be1164ea75bb087d
@@ -1939,16 +2791,76 @@ ScriptsOnlyBuild:
     className: visimisi
   - hash:
       serializedVersion: 2
+      Hash: 9277194e3007f91c41cc4dd392ebc5cb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanSelectableGraphicColor
+  - hash:
+      serializedVersion: 2
+      Hash: a7e9ba397ab6e79817e7174cc01dd9d4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanMultiSetCanvas
+  - hash:
+      serializedVersion: 2
+      Hash: c838d6539856a62597b104796b455d7b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanRevertTransform
+  - hash:
+      serializedVersion: 2
+      Hash: eb957818dc76efe62496e8b4c214876e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanMaintainDistance
+  - hash:
+      serializedVersion: 2
+      Hash: 2121006cbf3554f331de83c71a4ef3d4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Localization
+    className: LeanPhrase
+  - hash:
+      serializedVersion: 2
       Hash: 3eec3d0f549eeeef6b133056a3e1f91a
     assemblyName: Assembly-CSharp.dll
     namespaceName: Lean.Transition.Method
     className: LeanRectTransformAnchoredPositionX
   - hash:
       serializedVersion: 2
+      Hash: 17e7ebb7a91e7943d3020a65b55f5bb2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanDragTranslate
+  - hash:
+      serializedVersion: 2
       Hash: b09d374bef1bdeac117377c79eb5a565
     assemblyName: Assembly-CSharp.dll
     namespaceName: Lean.Gui
     className: LeanJoystick
+  - hash:
+      serializedVersion: 2
+      Hash: 93eba1d696f29203b1e2bbd80e30edbf
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanDragColorMesh
+  - hash:
+      serializedVersion: 2
+      Hash: 0155f6cc026767841ef6c9bb6eef3faa
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanConstrainScale
+  - hash:
+      serializedVersion: 2
+      Hash: cc89a7f65b3dca64feddfd8acfa3294b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanSelectablePressureScale
+  - hash:
+      serializedVersion: 2
+      Hash: 253ead52687ebcf6bf2e6bb68055e28a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanFingerUp
   - hash:
       serializedVersion: 2
       Hash: df434544c9f7b33d1cc7e635b180d279
@@ -2023,10 +2935,34 @@ ScriptsOnlyBuild:
     className: Outline
   - hash:
       serializedVersion: 2
+      Hash: 4e0bfd1d29eec1f3cda6b997a7d81004
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanDragTrail
+  - hash:
+      serializedVersion: 2
+      Hash: c656948a24529b4f6f11cfe0104cd755
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanMultiTwist
+  - hash:
+      serializedVersion: 2
+      Hash: f0e792afefd9f5d684aaa5a3dd8994f2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanSpawn
+  - hash:
+      serializedVersion: 2
       Hash: a63fc1a3b035e5a0b5839cd7f7b3086e
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
     className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 5a96e1bcd2eca7ee45c00d90e54af4fe
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanChase
   - hash:
       serializedVersion: 2
       Hash: 8649814970b42d345b89944b862453cc
@@ -2251,6 +3187,18 @@ ScriptsOnlyBuild:
     className: Dropdown
   - hash:
       serializedVersion: 2
+      Hash: 9554e0afb59327313a10608d6e1de27a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanAnySelected
+  - hash:
+      serializedVersion: 2
+      Hash: 68d6423781be1a01df90aa72b1520990
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanFingerHeld
+  - hash:
+      serializedVersion: 2
       Hash: a68b277d44f7617579505c2abab5e520
     assemblyName: Assembly-CSharp.dll
     namespaceName: Lean.Transition.Method
@@ -2261,6 +3209,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
     className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 330f62fcfa21b2047340eab154927cfc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanSelectableRendererColor
   - hash:
       serializedVersion: 2
       Hash: aa88ae22474df55295327e4ee99e5a24
@@ -2497,22 +3451,16 @@ ScriptsOnlyBuild:
     className: WireframeTrackableEventHandler
   - hash:
       serializedVersion: 2
+      Hash: 0f6cc30268e4074766931a282d71934e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Lean.Touch
+    className: LeanDragTranslateAlong
+  - hash:
+      serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 54bb4b1d256fadcc22d2c606f6b067fe
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: paketmini
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: paketmini1
   platform: 13
   scenePathNames:
   - Assets/splash.unity
@@ -2529,4 +3477,8 @@ ScriptsOnlyBuild:
   - Assets/menu_tenda.unity
   - Assets/menu_retail.unity
   - Assets/Scenes AR/paket rigging/paketmini.unity
+  - Assets/Scenes AR/paket lighting/paketlighting1.unity
+  - Assets/Scenes AR/paket lighting/paketlighting2.unity
+  - Assets/Scenes AR/paket lighting/paketlighting3.unity
+  - Assets/Scenes AR/paket lighting/paketlighting4.unity
   playerPath: C:/Users/Fadhli Hisyam/Documents/GitHub/DipoRentalAR/DipoRental Calatogue.apk

@@ -53,4 +53,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes AR/paket lighting/paketlighting2.unity
     guid: 937f397d72ecfbb4a8527e0ab7d338e0
+  - enabled: 1
+    path: Assets/Scenes AR/paket lighting/paketlighting3.unity
+    guid: 7342e98f02ee0c943952c000d6281272
+  - enabled: 1
+    path: Assets/Scenes AR/paket lighting/paketlighting4.unity
+    guid: 6f400e2f2300c6a46888fcd88f2089f0
   m_configObjects: {}
