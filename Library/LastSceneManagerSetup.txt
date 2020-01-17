@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes AR/paket rigging/paketstandar.unity
+- path: Assets/menu_all.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

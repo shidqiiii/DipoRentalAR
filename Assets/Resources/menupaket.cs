@@ -32,6 +32,11 @@ public class menupaket : MonoBehaviour
     public void GoBack(){
 		Application.LoadLevel("mainmenu");
 	}
+
+    public void GoToAll()
+    {
+        Application.LoadLevel("menu_all");
+    }
     
 
 	void Update()
