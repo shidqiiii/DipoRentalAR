@@ -1,6 +1,8 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - Lean.Touch.LeanPinchScale
+    - Lean.Touch.LeanTwistRotate
     - about
     - lighting
     - loading
@@ -90,11 +92,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10850}
     - Class: 114
+      Script: {instanceID: 10868}
+    - Class: 114
       Script: {instanceID: 11068}
     - Class: 114
       Script: {instanceID: 11128}
     - Class: 114
       Script: {instanceID: 11302}
+    - Class: 114
+      Script: {instanceID: 11538}
     - Class: 114
       Script: {instanceID: 11642}
     - Class: 114
@@ -163,11 +169,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10850}
     - Class: 114
+      Script: {instanceID: 10868}
+    - Class: 114
       Script: {instanceID: 11068}
     - Class: 114
       Script: {instanceID: 11128}
     - Class: 114
       Script: {instanceID: 11302}
+    - Class: 114
+      Script: {instanceID: 11538}
     - Class: 114
       Script: {instanceID: 11642}
     - Class: 114
@@ -236,11 +246,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10850}
     - Class: 114
+      Script: {instanceID: 10868}
+    - Class: 114
       Script: {instanceID: 11068}
     - Class: 114
       Script: {instanceID: 11128}
     - Class: 114
       Script: {instanceID: 11302}
+    - Class: 114
+      Script: {instanceID: 11538}
     - Class: 114
       Script: {instanceID: 11642}
     - Class: 114
@@ -309,11 +323,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10850}
     - Class: 114
+      Script: {instanceID: 10868}
+    - Class: 114
       Script: {instanceID: 11068}
     - Class: 114
       Script: {instanceID: 11128}
     - Class: 114
       Script: {instanceID: 11302}
+    - Class: 114
+      Script: {instanceID: 11538}
     - Class: 114
       Script: {instanceID: 11642}
     - Class: 114
@@ -380,11 +398,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10850}
     - Class: 114
+      Script: {instanceID: 10868}
+    - Class: 114
       Script: {instanceID: 11068}
     - Class: 114
       Script: {instanceID: 11128}
     - Class: 114
       Script: {instanceID: 11302}
+    - Class: 114
+      Script: {instanceID: 11538}
     - Class: 114
       Script: {instanceID: 11642}
     - Class: 114
@@ -451,11 +473,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10850}
     - Class: 114
+      Script: {instanceID: 10868}
+    - Class: 114
       Script: {instanceID: 11068}
     - Class: 114
       Script: {instanceID: 11128}
     - Class: 114
       Script: {instanceID: 11302}
+    - Class: 114
+      Script: {instanceID: 11538}
     - Class: 114
       Script: {instanceID: 11642}
     - Class: 114
@@ -522,11 +548,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10850}
     - Class: 114
+      Script: {instanceID: 10868}
+    - Class: 114
       Script: {instanceID: 11068}
     - Class: 114
       Script: {instanceID: 11128}
     - Class: 114
       Script: {instanceID: 11302}
+    - Class: 114
+      Script: {instanceID: 11538}
     - Class: 114
       Script: {instanceID: 11642}
     - Class: 114
@@ -3625,4 +3655,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes AR/paket lighting/paketlighting2.unity
   - Assets/Scenes AR/paket lighting/paketlighting3.unity
   - Assets/Scenes AR/paket lighting/paketlighting4.unity
-  playerPath: C:/Users/Fadhli Hisyam/Documents/GitHub/DipoRentalAR/DipoRental Calatogue.apk
+  playerPath: E:/Kerja Paktek/github/DipoRentalAR/DipoRental Calatogue.apk
