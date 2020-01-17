@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - Lean.Touch.LeanPinchScale
+    - Lean.Touch.LeanTouch
     - Lean.Touch.LeanTwistRotate
     - about
     - lighting
@@ -21,7 +22,6 @@ ScriptsOnlyBuild:
     - visimisi
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
-    - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
@@ -97,6 +97,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 11068}
     - Class: 114
       Script: {instanceID: 11128}
+    - Class: 114
+      Script: {instanceID: 11140}
     - Class: 114
       Script: {instanceID: 11302}
     - Class: 114
@@ -175,6 +177,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11128}
     - Class: 114
+      Script: {instanceID: 11140}
+    - Class: 114
       Script: {instanceID: 11302}
     - Class: 114
       Script: {instanceID: 11538}
@@ -251,6 +255,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 11068}
     - Class: 114
       Script: {instanceID: 11128}
+    - Class: 114
+      Script: {instanceID: 11140}
     - Class: 114
       Script: {instanceID: 11302}
     - Class: 114
@@ -329,6 +335,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11128}
     - Class: 114
+      Script: {instanceID: 11140}
+    - Class: 114
       Script: {instanceID: 11302}
     - Class: 114
       Script: {instanceID: 11538}
@@ -403,6 +411,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 11068}
     - Class: 114
       Script: {instanceID: 11128}
+    - Class: 114
+      Script: {instanceID: 11140}
     - Class: 114
       Script: {instanceID: 11302}
     - Class: 114
@@ -479,6 +489,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11128}
     - Class: 114
+      Script: {instanceID: 11140}
+    - Class: 114
       Script: {instanceID: 11302}
     - Class: 114
       Script: {instanceID: 11538}
@@ -553,6 +565,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 11068}
     - Class: 114
       Script: {instanceID: 11128}
+    - Class: 114
+      Script: {instanceID: 11140}
     - Class: 114
       Script: {instanceID: 11302}
     - Class: 114
