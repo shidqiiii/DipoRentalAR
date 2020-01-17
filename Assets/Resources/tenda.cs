@@ -5,16 +5,16 @@ using UnityEngine;
 public class tenda : MonoBehaviour
 {
    // Start is called before the first frame update
-   public void PaketMini(){
-		Application.LoadLevel("paketmini");
+   public void PaketTendaMini(){
+		Application.LoadLevel("pakettendamini");
 	}
 
-    public void PaketPlafon(){
-		Application.LoadLevel("paketplafon");
+    public void PaketTendaPlafon(){
+		Application.LoadLevel("pakettendaplafon");
 	}
 
-    public void PaketCantik(){
-		Application.LoadLevel("paketcantik");
+    public void PaketTendaCantik(){
+		Application.LoadLevel("pakettendacantik");
 	}
 
      public void GoBack(){
