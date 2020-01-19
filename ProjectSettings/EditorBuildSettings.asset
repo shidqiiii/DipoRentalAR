@@ -6,46 +6,46 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/splash.unity
+    path: Assets/Scenes AR/Menu/splash.unity
     guid: 0105113366cfa954cab52cfc0ca1af2b
   - enabled: 1
-    path: Assets/loading.unity
+    path: Assets/Scenes AR/Menu/loading.unity
     guid: 2db3c71c509b5ba488587fcd631d2874
   - enabled: 1
-    path: Assets/mainmenu.unity
+    path: Assets/Scenes AR/Menu/mainmenu.unity
     guid: ac95c1377eb46bb4289b2f517a723874
   - enabled: 1
-    path: Assets/about.unity
+    path: Assets/Scenes AR/Menu/about.unity
     guid: d573edf3624aeda4f97025e335063431
   - enabled: 1
-    path: Assets/visimisi.unity
+    path: Assets/Scenes AR/Menu/visimisi.unity
     guid: a172156374f711a44b6a963f5faeea45
   - enabled: 1
-    path: Assets/specialist.unity
+    path: Assets/Scenes AR/Menu/specialist.unity
     guid: a1ce6ee1c71449b43bba058ec0be7a5e
   - enabled: 1
-    path: Assets/menupaket.unity
+    path: Assets/Scenes AR/Menu/menupaket.unity
     guid: c6da2569b74c3bb4b99744e8c1091258
   - enabled: 1
-    path: Assets/menu_all.unity
+    path: Assets/Scenes AR/Menu/menu_all.unity
     guid: f8ba2a0497fd517479209f50e3f8a74e
   - enabled: 1
-    path: Assets/menu_sound.unity
+    path: Assets/Scenes AR/Menu/menu_sound.unity
     guid: d6be574e0b198594f9c254c0b68afd18
   - enabled: 1
-    path: Assets/menu_lighting.unity
+    path: Assets/Scenes AR/Menu/menu_lighting.unity
     guid: 1e06a5e411c3b614e8507e66b2794662
   - enabled: 1
-    path: Assets/menu_multimedia.unity
+    path: Assets/Scenes AR/Menu/menu_multimedia.unity
     guid: 02ddc5ffa8c202d4eb551608c446322b
   - enabled: 1
-    path: Assets/menu_riggingstage.unity
+    path: Assets/Scenes AR/Menu/menu_riggingstage.unity
     guid: 4b5b4b6bfb3bd0a439ac3c13b7f401de
   - enabled: 1
-    path: Assets/menu_tenda.unity
+    path: Assets/Scenes AR/Menu/menu_tenda.unity
     guid: c7d9e17c48777b24a91737b449fdb274
   - enabled: 1
-    path: Assets/menu_retail.unity
+    path: Assets/Scenes AR/Menu/menu_retail.unity
     guid: 2bf50584c05ca0a42bd1bdcd7caa99bc
   - enabled: 1
     path: Assets/Scenes AR/paket rigging/paketmini.unity
