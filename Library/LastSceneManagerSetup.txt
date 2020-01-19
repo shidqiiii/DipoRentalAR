@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes AR/Paket Tenda/pakettendacantik.unity
+- path: Assets/Scenes AR/Paket Sound/paketsound1.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
