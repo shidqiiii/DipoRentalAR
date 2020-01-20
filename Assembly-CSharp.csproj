@@ -282,6 +282,7 @@
      <Compile Include="Assets\Resources\vuforia script\rigging\paketmini1.cs" />
      <Compile Include="Assets\Resources\vuforia script\tenda\menutenda.cs" />
      <Compile Include="Assets\Resources\vuforia script\tenda\pakettenda.cs" />
+     <Compile Include="Assets\Scenes AR\Paket Sound\menusound.cs" />
      <None Include="Assets\Lean\Common\Examples\Shaders\Alpha.shader" />
      <None Include="Assets\StreamingAssets\Vuforia\DipoAR.xml" />
      <None Include="Assets\Lean\Localization\Examples\Texts\English.txt" />

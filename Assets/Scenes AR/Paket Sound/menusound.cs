@@ -2,11 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class menulighting : MonoBehaviour
+public class menusound : MonoBehaviour
 {
     public void GoBack()
     {
-        Application.LoadLevel("menu_lighting");
+        Application.LoadLevel("menu_sound");
     }
 
     void Update()
@@ -20,7 +20,7 @@ public class menulighting : MonoBehaviour
             {
 
                 // Quit the application
-                Application.LoadLevel("menu_lighting");
+                Application.LoadLevel("menu_sound");
             }
         }
     }

@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes AR/Paket Sound/paketsound1.unity
+- path: Assets/Scenes AR/Paket Multimedia/paketpremium.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
