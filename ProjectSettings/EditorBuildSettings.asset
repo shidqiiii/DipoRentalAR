@@ -95,4 +95,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes AR/Paket Multimedia/paketpremium.unity
     guid: 44c0d7463f2189e4697d7c17fbb53066
+  - enabled: 1
+    path: Assets/Scenes AR/paket retail/hdmi.unity
+    guid: 9f84750e9d124074f952372515db3133
+  - enabled: 1
+    path: Assets/Scenes AR/paket retail/vga.unity
+    guid: 8d42f8f8554219a449f7d585d24cf92f
+  - enabled: 1
+    path: Assets/Scenes AR/paket retail/pointer.unity
+    guid: 29c7c3442331ce04484c6aa7910ace1a
   m_configObjects: {}
