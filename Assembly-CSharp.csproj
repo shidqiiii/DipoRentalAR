@@ -282,7 +282,10 @@
      <Compile Include="Assets\Resources\vuforia script\multimedia\menumultimedia.cs" />
      <Compile Include="Assets\Resources\vuforia script\multimedia\paketmultimedia.cs" />
      <Compile Include="Assets\Resources\vuforia script\retail\hdmi_navcontrol.cs" />
+     <Compile Include="Assets\Resources\vuforia script\retail\headsetht_navcontrol.cs" />
      <Compile Include="Assets\Resources\vuforia script\retail\hidepaket.cs" />
+     <Compile Include="Assets\Resources\vuforia script\retail\ht_navcontrol.cs" />
+     <Compile Include="Assets\Resources\vuforia script\retail\pickup_navcontrol.cs" />
      <Compile Include="Assets\Resources\vuforia script\rigging\paketmini.cs" />
      <Compile Include="Assets\Resources\vuforia script\rigging\paketmini1.cs" />
      <Compile Include="Assets\Resources\vuforia script\tenda\menutenda.cs" />
