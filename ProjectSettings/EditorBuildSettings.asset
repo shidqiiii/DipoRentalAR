@@ -188,4 +188,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes AR/paket retail/toa.unity
     guid: 39521fe3b9bc0dd49bbef6927b40a9b8
+  - enabled: 1
+    path: Assets/Scenes AR/paket retail/headsetht.unity
+    guid: 48868efadf553294b9bc1db9379dd4d1
   m_configObjects: {}
