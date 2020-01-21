@@ -1,6 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes AR/paket retail/hdmi.unity
-- path: Assets/Scenes AR/paket retail/headsetht.unity
+- path: Assets/Scenes AR/paket retail/podium.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
