@@ -952,10 +952,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Spesifikasi:
-
-
-    VGA Splitter'
+  m_Text: "Spesifikasi:\n\n- Speaker aktif /unit + 2 unit mic wireless\n- Speaker
+    aktif 2 unit + 2 unit mic\r\nwireless (tanpa mixer)"
 --- !u!222 &1276855642
 CanvasRenderer:
   m_ObjectHideFlags: 0

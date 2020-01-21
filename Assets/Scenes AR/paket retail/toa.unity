@@ -1096,7 +1096,7 @@ MonoBehaviour:
   m_Text: 'Spesifikasi:
 
 
-    VGA Splitter'
+    ToA + Baterai'
 --- !u!222 &785385708
 CanvasRenderer:
   m_ObjectHideFlags: 0

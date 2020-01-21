@@ -1857,7 +1857,9 @@ MonoBehaviour:
   m_Text: 'Spesifikasi:
 
 
-    VGA Splitter'
+    - Sofa VIP /unit
+
+    - Meja VIP /unit'
 --- !u!222 &1831461545
 CanvasRenderer:
   m_ObjectHideFlags: 0

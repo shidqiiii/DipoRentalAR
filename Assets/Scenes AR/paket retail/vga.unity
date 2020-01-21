@@ -516,10 +516,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Spesifikasi:
-
-
-    Panjang ~2 meter'
+  m_Text: "Spesifikasi:\n\nKabel VGA 30 m\r / 10m"
 --- !u!222 &504429559
 CanvasRenderer:
   m_ObjectHideFlags: 0
