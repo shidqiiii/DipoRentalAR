@@ -14,7 +14,7 @@ public class kursilipat_nav : MonoBehaviour
 	}
 	
 	public void GoNext(){
-		 Application.LoadLevel("avanza");
+		 Application.LoadLevel("pickup");
 	}
 
     void Update()

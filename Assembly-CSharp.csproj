@@ -281,7 +281,6 @@
      <Compile Include="Assets\Resources\vuforia script\lighting\paketlighting.cs" />
      <Compile Include="Assets\Resources\vuforia script\multimedia\menumultimedia.cs" />
      <Compile Include="Assets\Resources\vuforia script\multimedia\paketmultimedia.cs" />
-     <Compile Include="Assets\Resources\vuforia script\retail\avanza_nav.cs" />
      <Compile Include="Assets\Resources\vuforia script\retail\cajon_nav.cs" />
      <Compile Include="Assets\Resources\vuforia script\retail\convertvgahdmi_nav.cs" />
      <Compile Include="Assets\Resources\vuforia script\retail\drone_nav.cs" />

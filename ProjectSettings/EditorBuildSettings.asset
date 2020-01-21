@@ -120,14 +120,8 @@ EditorBuildSettings:
     path: Assets/Scenes AR/paket retail/tvled.unity
     guid: 713bb6705196b364283d078939425b70
   - enabled: 1
-    path: Assets/Scenes AR/paket retail/sofavip.unity
-    guid: 6c1c32a474cd2704a9e71728ba9da0fe
-  - enabled: 1
     path: Assets/Scenes AR/paket retail/cajon.unity
     guid: c22a5d6ebac9b024980a5e9f758e214c
-  - enabled: 1
-    path: Assets/Scenes AR/paket retail/avanza.unity
-    guid: 0c4fb526691d6194f99e19c28dfcadc8
   - enabled: 1
     path: Assets/Scenes AR/paket retail/drone.unity
     guid: 081f118c7f9a3fc45b0f9bd1d99b4f82

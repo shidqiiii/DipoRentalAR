@@ -10,7 +10,7 @@ public class pickup_navcontrol : MonoBehaviour
     }
 	
 	public void GoPrev(){
-		 Application.LoadLevel("avanza");
+		 Application.LoadLevel("kursilipat");
 	}
 	
 	public void GoNext(){
