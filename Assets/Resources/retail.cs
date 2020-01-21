@@ -119,7 +119,17 @@ public class retail : MonoBehaviour
 	public void SpeakerAktif(){
 		Application.LoadLevel("speakeraktif");
 	}
-	
+
+    public void Pickup()
+    {
+        Application.LoadLevel("pickup");
+    }
+
+    public void Avanza()
+    {
+        Application.LoadLevel("avanza");
+    }
+
     public void GoBack(){
 		Application.LoadLevel("menupaket");
 	}
