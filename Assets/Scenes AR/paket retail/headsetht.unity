@@ -1225,6 +1225,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: HT + Headset
       objectReference: {fileID: 0}
+    - target: {fileID: -113181020801827196, guid: b8372ab841cbf054c9cabc91ccbf71a4,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 102f70a0d9c25954cbda16123ce8b23c, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b8372ab841cbf054c9cabc91ccbf71a4, type: 3}
 --- !u!4 &1211939643 stripped
