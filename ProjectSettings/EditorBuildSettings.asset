@@ -125,4 +125,67 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes AR/paket retail/cajon.unity
     guid: c22a5d6ebac9b024980a5e9f758e214c
+  - enabled: 1
+    path: Assets/Scenes AR/paket retail/avanza.unity
+    guid: 0c4fb526691d6194f99e19c28dfcadc8
+  - enabled: 1
+    path: Assets/Scenes AR/paket retail/drone.unity
+    guid: 081f118c7f9a3fc45b0f9bd1d99b4f82
+  - enabled: 1
+    path: Assets/Scenes AR/paket retail/genset.unity
+    guid: b4be1fd9f7d030a4793a650ab863af1c
+  - enabled: 1
+    path: Assets/Scenes AR/paket retail/ht.unity
+    guid: e1aea7bcbd526bf41b6186c3e4ad318f
+  - enabled: 1
+    path: Assets/Scenes AR/paket retail/kabel10.unity
+    guid: 8bfff46307f1fb541863f10c055cafdb
+  - enabled: 1
+    path: Assets/Scenes AR/paket retail/kursifutura.unity
+    guid: eaf371f9540ab4e449f3182bef849fb9
+  - enabled: 1
+    path: Assets/Scenes AR/paket retail/kursilipat.unity
+    guid: ba8d62ae0d7696a469b4f817693f8589
+  - enabled: 1
+    path: Assets/Scenes AR/paket retail/lighting2bar.unity
+    guid: 5770c195c5079b6489d6dfde6fa79eb8
+  - enabled: 1
+    path: Assets/Scenes AR/paket retail/micwired.unity
+    guid: f1c95e1fc8cbf4745981057ab3c26376
+  - enabled: 1
+    path: Assets/Scenes AR/paket retail/micwireless.unity
+    guid: 87fea05a132fde2439a9a0704f74f1f1
+  - enabled: 1
+    path: Assets/Scenes AR/paket retail/pickup.unity
+    guid: eaf144bab44d8f14ea7afbde69426bce
+  - enabled: 1
+    path: Assets/Scenes AR/paket retail/podium.unity
+    guid: addc0afabc77c6d47bb3536514e3de48
+  - enabled: 1
+    path: Assets/Scenes AR/paket retail/proyektor1.unity
+    guid: cdffb1b91c4912841b7d9989ac61d0ed
+  - enabled: 1
+    path: Assets/Scenes AR/paket retail/proyektor2.unity
+    guid: 73cee9473664d0741abfc32a71ffd873
+  - enabled: 1
+    path: Assets/Scenes AR/paket retail/screenproyektor.unity
+    guid: 255dd8d373a4b1e429a5774653272f60
+  - enabled: 1
+    path: Assets/Scenes AR/paket retail/smokegun.unity
+    guid: 4c8e8388bf635e241b0f8f1f409fa697
+  - enabled: 1
+    path: Assets/Scenes AR/paket retail/sofamejavip.unity
+    guid: 5156674a0fd19c742ba1780c2358bb68
+  - enabled: 1
+    path: Assets/Scenes AR/paket retail/speakeraktif.unity
+    guid: 6e8121fb6fe29aa42bda7de6ccb2fe45
+  - enabled: 1
+    path: Assets/Scenes AR/paket retail/speakerportable.unity
+    guid: 035be2741b612e447b6ecebb729699ab
+  - enabled: 1
+    path: Assets/Scenes AR/paket retail/standingmic.unity
+    guid: 61a9fcac22b3c4b449daa99f177feac5
+  - enabled: 1
+    path: Assets/Scenes AR/paket retail/toa.unity
+    guid: 39521fe3b9bc0dd49bbef6927b40a9b8
   m_configObjects: {}

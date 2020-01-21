@@ -4,15 +4,32 @@ using UnityEngine;
 
 public class proyektor1_nav : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public void GoBack()
     {
-        
+        Application.LoadLevel("menu_retail");
     }
+	
+	public void GoPrev(){
+		 Application.LoadLevel("pickup");
+	}
+	
+	public void GoNext(){
+		 Application.LoadLevel("proyektor2");
+	}
 
-    // Update is called once per frame
     void Update()
     {
-        
+        // Make sure user is on Android platform
+        if (Application.platform == RuntimePlatform.Android)
+        {
+
+            // Check if Back was pressed this frame
+            if (Input.GetKeyDown(KeyCode.Escape))
+            {
+
+                // Quit the application
+                Application.LoadLevel("menu_lighting");
+            }
+        }
     }
 }
