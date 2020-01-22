@@ -1405,7 +1405,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a6569419b643651459a2ef8e4be5b73b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  closedialog: {fileID: 0}
+  closedialog: {fileID: 601600878}
 --- !u!4 &1487231311
 Transform:
   m_ObjectHideFlags: 0
